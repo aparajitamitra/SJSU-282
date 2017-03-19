@@ -10,4 +10,11 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <distributionManagement>
+       <repository>
+         <id>git.repo</id>
+         <name>MyApp</name>
+         <url>https://github.com/aparajitamitra/SJSU-282.git/MyApp/</url>
+       </repository>
+   </distributionManagement>
 </project>
