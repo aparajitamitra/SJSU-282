@@ -14,7 +14,7 @@
        <repository>
          <id>git.repo</id>
          <name>MyApp</name>
-         <url>file:////Users/aparajitamitra/NetBeansProjects/MyApp</url>
+         <url>https://github.com/aparajitamitra/SJSU-282.git/MyApp/</url>
        </repository>
    </distributionManagement>
 </project>
