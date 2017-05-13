@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0 (2)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="jackson-databind-2.8.3.jar"/>
+	<classpathentry kind="lib" path="jackson-core-2.8.3.jar"/>
+	<classpathentry kind="lib" path="jackson-annotations-2.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/siddhiparekh11/Documents/workspace/CloudTrade/signpost-commonshttp4-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/siddhiparekh11/Documents/workspace/CloudTrade/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/siddhiparekh11/Documents/workspace/CloudTrade/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
